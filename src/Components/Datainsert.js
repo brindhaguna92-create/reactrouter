@@ -56,7 +56,7 @@ const json={
           <br></br>
           Student Rank:{item.rank}
           <br></br>
-          <hr></hr>
+          <hr size="2" color='blue' width="20%" align="left"></hr>
           </>
         )}
     </div>
